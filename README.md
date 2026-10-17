@@ -6,5 +6,6 @@ My LeetCode solutions in C++, covering Data Structures and Algorithms with a foc
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
