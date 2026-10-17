@@ -8,4 +8,5 @@ My LeetCode solutions in C++, covering Data Structures and Algorithms with a foc
 | ------- |
 | [0007-reverse-integer](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
