@@ -10,22 +10,7 @@ My LeetCode solutions in C++, covering Data Structures and Algorithms with a foc
 | [0009-palindrome-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0507-perfect-number) |
-## Array
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0204-count-primes) |
-## Enumeration
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0204-count-primes) |
-## Number Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0204-count-primes) |
-## Primality Test
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0204-count-primes) |
+
 ## Sieve Theory
 |  |
 | ------- |
