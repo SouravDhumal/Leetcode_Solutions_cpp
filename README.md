@@ -37,8 +37,4 @@ My LeetCode solutions in C++, covering Data Structures and Algorithms with a foc
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
