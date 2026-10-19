@@ -21,9 +21,11 @@ My LeetCode solutions in C++, covering Data Structures and Algorithms with a foc
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SouravDhumal/Leetcode_Solutions_cpp/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
